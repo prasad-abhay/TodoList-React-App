@@ -37,7 +37,7 @@ A simple and interactive Todo List application built with **React**. It allows u
 
 
 ## project structure
-
+```
 TodoList-React-App/
 │
 ├── public/
@@ -55,3 +55,4 @@ TodoList-React-App/
 │
 ├── package.json
 └── README.md
+```
